@@ -1,6 +1,7 @@
 {
     "name": "oldpunk/core",
     "description": "",
+    "type": "laravel-module",
     "authors": [
         {
             "name": "Dmitry",
