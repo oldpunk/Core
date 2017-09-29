@@ -1,0 +1,20 @@
+{
+    "name": "oldy/core",
+    "description": "",
+    "authors": [
+        {
+            "name": "Dmitry",
+            "email": "sfon-site@yandex.ru"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Modules\\Core\\": ""
+        }
+    },
+    "require": {
+        "php": ">=5.6.4",
+        "intervention/image": "^2.4",
+        "kris/laravel-form-builder": "^1.12"
+    }
+}
