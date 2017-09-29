@@ -1,5 +1,5 @@
 {
-    "name": "oldpunk/core",
+    "name": "oldpunk/core-module",
     "description": "",
     "type": "laravel-module",
     "authors": [
