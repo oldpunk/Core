@@ -39,6 +39,6 @@ class Settings extends Model
             $this->getAllParams();
         }
 
-        return isset($this->params[$name]) ? $this->params[$name]:'';
+        return array_get($this->params, $name, '');
     }
 }
